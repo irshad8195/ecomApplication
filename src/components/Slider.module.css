@@ -1,0 +1,126 @@
+.center{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    /* background-color: coral; */
+    position: relative;
+}
+
+.slide img{
+   width: 100vw;
+
+}
+.arrow{
+    cursor: pointer;
+    position: absolute;
+   top: 45%;
+   color: black;
+   /* background-color: rgba(255, 255, 255, 0.789); */
+   padding: 8px 18px;
+   border-radius: 50%;
+   font-size: 25px;
+   font-weight: bold;
+   display: flex;
+
+}
+/* .arrow, .next{
+    right: 10px;
+} */
+/* .arrow, .prev{
+    left: 10px;
+}
+.wrapper{
+    height: 100%;
+}
+.slide{
+    display: flex;
+    align-items: center; 
+    width: 100vw;
+}
+.img{
+  flex: 1;
+}
+.info{
+    flex: 1;
+} */
+
+
+
+
+
+
+ /* .both{
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto; */
+   
+
+    /* right: ${props=> props.direction === 'left' && '10px'}; */
+  
+    
+    
+    /* left: ${(props)=> props.direction === 'left' && '10px'}
+    /* right: ${(props)=> props.direction === 'right' && '10px'}; */
+    /* right: ${(props)=> props.direction === 'right' && '10px'}
+    */ 
+   
+
+
+
+
+/* .slide{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    /* background-color: coral; */
+    /* position: relative;
+    overflow: hidden; */
+    /* transform: translateX(-100vw); */
+    
+/* } */ 
+/* .slide .left {
+    position: absolute;
+    left: 0.5rem;
+    top: 50%;
+    font-size: 2rem;
+    color: blue;
+    /* z-index: 5; */
+    /* cursor: pointer;
+    user-select: none;
+    
+} */ 
+
+/* .slide .right{
+    position: absolute;
+   right: 0.5rem;
+   top: 50%;
+   font-size: 2rem;
+   color: blue;
+   z-index: 5;
+   cursor: pointer;
+   user-select: none;
+} */
+
+/* .slide .image{
+    height: 80vh;
+    width: 50%;
+    display: flex;
+    transform: translateX(-100vw);
+} */
+
+/* .slide .des {
+   align-items: center; 
+   margin: 50px 2px;
+   margin-right: 300px;
+   font-size: 20px;
+   font-weight: 500;
+   letter-spacing: 3px;
+} */
